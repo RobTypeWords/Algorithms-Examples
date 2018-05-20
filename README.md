@@ -11,3 +11,7 @@ List of Alogorithms:
 >
 >
 >
+
+
+Inspiration: 
+(Link. TBA)
