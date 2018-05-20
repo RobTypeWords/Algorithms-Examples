@@ -7,11 +7,11 @@ Repository implementations:
 (TBA)
 
 
-List of Alogorithms:
+List of Alogorithms: (Link to wikki)
 >
 >
 >
 
 
 Inspiration: 
-(Link. TBA)
+(Link. TBA) (https://github.com/sagarchoudhary96)
