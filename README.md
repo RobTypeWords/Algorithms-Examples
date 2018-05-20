@@ -5,3 +5,9 @@ The Purpose of this repository is to contain various algorithms which I will try
 
 Repository implementations:
 (TBA)
+
+
+List of Alogorithms:
+>
+>
+>
